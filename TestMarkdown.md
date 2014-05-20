@@ -4,7 +4,7 @@
 * Nine courses 
 * Goes from raw data to data products
 
-== Books ==
+## Books ##
 
 # [R and Data Mining: Examples & Case studies](http://www.rdatamining.com/docs/RDataMining.pdf) - [Wiki page](Home/RnDM-EgsCs)
 # [Data Mining applications with R](https://www.elsevier.com/books/data-mining-applications-with-r/zhao/978-0-12-411511-8) - [Wiki Page](Home/DMAR)
